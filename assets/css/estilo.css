@@ -1,3 +1,37 @@
 #paineis-sobre {
     margin-top: 20px;
 }
+
+.titulo-depoimentos {
+    background-color: #0275d8;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.contato-select,
+.grupo-radio {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.grupo-radio .radio:first-child {
+    margin-top: 0%;
+}
+
+.contato-select {
+    padding-left: 2px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+footer address:last-child {
+    margin-bottom: 0;
+}
